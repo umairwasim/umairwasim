@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there! 👋 I'm Umair Wasim 🎮  
+Unity Developer | C# Programmer | Multiplayer Game Dev  
 
-<!--
-**umairwasim/umairwasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏗️ **Building immersive game experiences**  
+🔥 Specializing in **Unity, C#, Netcode, and Multiplayer Systems**  
+🎯 Experience with **Nintendo Switch development & VR**  
+🛠️ Currently working on [Your Latest Project]  
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack  
+![Unity](https://img.shields.io/badge/Engine-Unity-000?logo=unity)  
+![C#](https://img.shields.io/badge/Code-C%23-blue)  
+![Netcode](https://img.shields.io/badge/Multiplayer-Netcode-green)  
+![Nintendo Switch](https://img.shields.io/badge/Platform-Nintendo_Switch-red)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats  
+![Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairwasim&show_icons=true&theme=dark)  
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-link/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://your-portfolio.com)  
