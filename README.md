@@ -39,7 +39,7 @@ Here are some of my **best projects**! Check them out:
 
 ### 📫 Connect With Me  
 🔗 **[Portfolio](https://your-portfolio.com)**  
-💼 **[LinkedIn](https://linkedin.com/in/your-link)**  
+💼 **[LinkedIn](https://linkedin.com/in/umairwasim)**  
 🕹️ **[Itch.io](https://your-itch.io-page)**  
 
 ---
