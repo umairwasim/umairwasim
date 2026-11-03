@@ -4,11 +4,12 @@
 ---
 
 ### 👨‍💻 About Me
-- I build software across **web, SaaS platforms, and games**.
-- I'm working on **React web applications** and **SaaS products and platforms**.
-- I'm exploring practical ways to bring **AI capabilities** into useful applications.
-- I also have experience with **Unity, C#, multiplayer systems, and game development**.
-- I enjoy creating scalable products and collaborating on thoughtful, user-focused ideas.
+- I build software across **web applications, SaaS products, and games**.
+- I'm developing **React web apps and SaaS platforms**, with a focus on useful, user-friendly products.
+- I'm exploring **AI integrations** and ways to bring intelligent features into web applications.
+- My web development interests include **React, Next.js, JavaScript/TypeScript, backend APIs, and cloud platforms**.
+- I also bring experience in **Unity, C#, multiplayer systems, and game development**.
+- I enjoy learning new tools and building scalable products from idea to release.
 
 ---
 
