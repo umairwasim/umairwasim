@@ -1,48 +1,53 @@
-<h1 align="center">👋 Hi, I'm Umair Wasim! 🎮</h1>
-<h3 align="center">Unity Developer | C# Programmer | Multiplayer Game Dev</h3>
+<h1 align="center">👋 Hi, I'm Umair Wasim!</h1>
+<h3 align="center">Software Developer | React & SaaS | AI | Unity Game Development</h3>
 
 ---
 
-### 🏗️ About Me  
-- 🎮 Passionate **game developer** with expertise in **Unity, C#, and multiplayer systems**  
-- 🏆 Experienced in **Netcode, Nintendo Switch development, and VR**  
-- 🚀 Always building **scalable, high-performance game experiences**  
-- 🌍 Open to **collaborations, freelancing, and full-time roles**  
+### 👨‍💻 About Me
+- I build software across **web, SaaS platforms, and games**.
+- I'm working on **React web applications** and **SaaS products and platforms**.
+- I'm exploring practical ways to bring **AI capabilities** into useful applications.
+- I also have experience with **Unity, C#, multiplayer systems, and game development**.
+- I enjoy creating scalable products and collaborating on thoughtful, user-focused ideas.
 
 ---
 
-### 🔥 My Tech Stack  
-![Unity](https://img.shields.io/badge/Engine-Unity-000?logo=unity&style=for-the-badge)  
-![C#](https://img.shields.io/badge/Code-C%23-blue?logo=csharp&style=for-the-badge)  
-![Netcode](https://img.shields.io/badge/Multiplayer-Netcode-green?style=for-the-badge)  
-![Nintendo Switch](https://img.shields.io/badge/Platform-Nintendo_Switch-red?style=for-the-badge)  
-![VR Ready](https://img.shields.io/badge/VR-Compatible-purple?style=for-the-badge)  
+### 🧭 Current Focus
+- Building responsive web apps with **React**
+- Developing **SaaS applications and platforms**
+- Exploring **AI-powered features and integrations**
+- Continuing to build tools and experiences with **Unity and C#**
 
 ---
 
-### 🚀 Featured Projects  
-Here are some of my **best projects**! Check them out:  
-
-🔹 **[Project 1 Name](https://github.com/umairwasim/project1)** – 🎮 Multiplayer FPS with Netcode  
-🔹 **[Project 2 Name](https://github.com/umairwasim/project2)** – 🏗️ Nintendo Switch Game Prototype  
-🔹 **[Project 3 Name](https://github.com/umairwasim/project3)** – 🛠 Custom Unity Tools for Devs  
-
-🌟 **Want to see more?** → [Check out my GitHub Repos](https://github.com/umairwasim?tab=repositories)  
-
----
-
-### 📊 GitHub Stats  
-![Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairwasim&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umairwasim&layout=compact&theme=dark)  
+### 🛠️ Technologies & Interests
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Explore-6B5B95?style=for-the-badge)
+![SaaS](https://img.shields.io/badge/SaaS-Product%20Development-2563EB?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
 
 ---
 
-### 📫 Connect With Me  
-🔗 **[Portfolio](https://your-portfolio.com)**  
-💼 **[LinkedIn](https://linkedin.com/in/umairwasim)**  
-🕹️ **[Itch.io](https://your-itch.io-page)**  
+### 🚀 Selected Projects
+- 🎮 [MummyEscape](https://github.com/umairwasim/MummyEscape) — A Unity game prototype set in an Egyptian pyramid.
+- 📊 [XCharts](https://github.com/umairwasim/XCharts) — A charting and data visualization library for Unity.
+- 🩺 [HealthConnectIntegration](https://github.com/umairwasim/HealthConnectIntegration) — Explore the repository.
+
+[Browse all my repositories →](https://github.com/umairwasim?tab=repositories)
 
 ---
 
-**Thanks for stopping by!** 🚀  
-🔔 Follow me for more Unity & game development content!  
+### 📊 GitHub Stats
+![Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairwasim&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umairwasim&layout=compact&theme=dark)
+
+---
+
+### 📫 Connect
+💼 [LinkedIn](https://linkedin.com/in/umairwasim)
+
+---
+
+Thanks for stopping by! I'm interested in building **web apps, AI-enabled products, SaaS platforms, and games**. 🚀
